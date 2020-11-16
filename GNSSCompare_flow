@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T14:17:39.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="2HNDQuGbD0wmZPcRH6Gk" version="13.9.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-16T14:30:02.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="jVN53PDWW5biADLQnNVH" version="13.9.9" type="github" pages="3">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Page-1">
-    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EVNg_u4OKfN9xJV3rSUx" name="Page-3">
-    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qroDr34DxEIiN0oYxJjS-0" />
         <mxCell id="qroDr34DxEIiN0oYxJjS-1" parent="qroDr34DxEIiN0oYxJjS-0" />
@@ -188,6 +188,12 @@
         </mxCell>
         <mxCell id="VGIC-dirIJqqp7oSQBOR-26" value="Wiederholung&lt;br&gt;für jeden &lt;br&gt;Standort" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;spacingTop=10;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
           <mxGeometry x="465" y="240" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VGIC-dirIJqqp7oSQBOR-30" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Tests mit GPSTest&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;fontFamily=Calibri;fontSize=13;dashed=1;align=center;opacity=50;spacingLeft=0;sketch=0;verticalAlign=top;spacingTop=30;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
+          <mxGeometry x="50" y="30" width="210" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="3msM2P7AOqm8a64Qxh5S-0" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Tests mit GNSS Compare &lt;/span&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;(erweiterte Version)&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;fontFamily=Calibri;fontSize=13;dashed=1;align=center;opacity=50;spacingLeft=0;sketch=0;spacingTop=30;verticalAlign=top;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
+          <mxGeometry x="270" y="30" width="330" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
