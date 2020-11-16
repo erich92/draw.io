@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T19:19:51.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="8wZoPnCL3OVa_XzoRwan" version="13.9.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-16T19:42:20.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="8vJ-kfYCriSCCKbd1Ptl" version="13.9.9" type="github" pages="5">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
     <mxGraphModel dx="914" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -342,23 +342,89 @@
       <root>
         <mxCell id="4X8dVy1nia_wDJ6c1cDe-0" />
         <mxCell id="4X8dVy1nia_wDJ6c1cDe-1" parent="4X8dVy1nia_wDJ6c1cDe-0" />
+        <mxCell id="aRI9h_YBPUVcCtceeFns-7" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;shape=flexArrow;" edge="1" parent="4X8dVy1nia_wDJ6c1cDe-1" source="aRI9h_YBPUVcCtceeFns-0" target="aRI9h_YBPUVcCtceeFns-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aRI9h_YBPUVcCtceeFns-0" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;1. Einleitung&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
-          <mxGeometry x="40" y="30" width="760" height="110" as="geometry" />
+          <mxGeometry x="40" y="15" width="760" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aRI9h_YBPUVcCtceeFns-1" value="Problemstellung und Hintergrund" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
-          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aRI9h_YBPUVcCtceeFns-2" value="Forschungsstand und Relevanz der Arbeit" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
-          <mxGeometry x="210" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aRI9h_YBPUVcCtceeFns-3" value="Ziel und Forschungsfragen" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
-          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aRI9h_YBPUVcCtceeFns-4" value="Methodik" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
-          <mxGeometry x="510" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aRI9h_YBPUVcCtceeFns-5" value="Zu erwartende Resultate" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
-          <mxGeometry x="660" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-17" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="4X8dVy1nia_wDJ6c1cDe-1" source="aRI9h_YBPUVcCtceeFns-6" target="aRI9h_YBPUVcCtceeFns-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-6" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;2. Entstehungsgeschichte&amp;nbsp;und Funktionsweise von globalen Navigationssatellitensystemen (GNSS)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="40" y="150" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-8" value="Funktionsweise" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="210" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Entstehungsgeschichte&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="360" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-10" value="Erweiternde Systeme" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="510" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-24" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="4X8dVy1nia_wDJ6c1cDe-1" source="aRI9h_YBPUVcCtceeFns-11" target="aRI9h_YBPUVcCtceeFns-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-11" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;3. Überlegungen und Anforderungen zur Beantwortung der Forschungsfrage&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="40" y="285" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-12" value="Anforderungen" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="134" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Genutzte Komponenten&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="284" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-14" value="Genutzte Software" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="434" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-18" value="Genutzte Hardware" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="584" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-30" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="4X8dVy1nia_wDJ6c1cDe-1" source="aRI9h_YBPUVcCtceeFns-19" target="aRI9h_YBPUVcCtceeFns-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-19" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;4. Probleme bei der Genauigkeit der Standortbestimmung&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="40" y="420" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-20" value="Möglichkeiten der Verbesserung der Standortgenauigkeit und Fehlerquellen" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="134" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-21" value="&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;GNSS&lt;br&gt;&lt;/span&gt;&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Fehlerquellen, durch Umwelteinflüsse oder Empfängerspezifischen Fehlern&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="284" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-22" value="&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Dual-Frequency&lt;br/&gt;– Die Nutzung mehrerer Frequenzbänder zur Positionsbestimmung&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="434" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-23" value="&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Genauigkeit&lt;br/&gt;der Positionsbestimmung mittels Smartphones und deren Ursachen&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="584" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-25" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;5. Methodik&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="40" y="555" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-26" value="Allgemeines zur Appentwicklung mittels Android Studio" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="210" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-27" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Applikation, Fehlerbehebungsansätze und verwendete Filteralgorithmen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="356" y="585" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRI9h_YBPUVcCtceeFns-28" value="Positionsbestimmung mittels GNSS mit frei verfügbaren Apps" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="4X8dVy1nia_wDJ6c1cDe-1">
+          <mxGeometry x="510" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
