@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T18:27:15.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="3IdKeGXbwS2Hogmtvlrr" version="13.9.9" type="github" pages="3">
-  <diagram id="1poxRbXDpuX0uWQKwgAF" name="Page-1">
-    <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-11-16T18:37:36.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="jJ6myD1Vwxd0s8kC7JXF" version="13.9.9" type="github" pages="3">
+  <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
+    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,8 +104,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EVNg_u4OKfN9xJV3rSUx" name="Page-3">
-    <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="EVNg_u4OKfN9xJV3rSUx" name="Flowchart Tests">
+    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qroDr34DxEIiN0oYxJjS-0" />
         <mxCell id="qroDr34DxEIiN0oYxJjS-1" parent="qroDr34DxEIiN0oYxJjS-0" />
