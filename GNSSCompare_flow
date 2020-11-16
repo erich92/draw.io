@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T18:25:56.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="5XhiAyRqqQBMKSiHQnkK" version="13.9.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-16T18:27:15.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="3IdKeGXbwS2Hogmtvlrr" version="13.9.9" type="github" pages="3">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Page-1">
     <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -109,8 +109,8 @@
       <root>
         <mxCell id="qroDr34DxEIiN0oYxJjS-0" />
         <mxCell id="qroDr34DxEIiN0oYxJjS-1" parent="qroDr34DxEIiN0oYxJjS-0" />
-        <mxCell id="baiyH2Pdp9W3ApuM1oN2-23" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Tests mit GNSS Compare &lt;/span&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;(erweiterte Version)&lt;br&gt;1. Durchgang&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;fontFamily=Calibri;fontSize=13;dashed=1;align=center;opacity=50;spacingLeft=0;sketch=0;spacingTop=30;verticalAlign=top;arcSize=9;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
-          <mxGeometry x="610" y="30" width="330" height="650" as="geometry" />
+        <mxCell id="baiyH2Pdp9W3ApuM1oN2-23" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Tests mit GNSS Compare &lt;/span&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;(erweiterte Version)&lt;br&gt;2. Durchgang&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;fontFamily=Calibri;fontSize=13;dashed=1;align=center;opacity=50;spacingLeft=0;sketch=0;spacingTop=30;verticalAlign=top;arcSize=9;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
+          <mxGeometry x="610" y="30" width="270" height="650" as="geometry" />
         </mxCell>
         <mxCell id="3msM2P7AOqm8a64Qxh5S-0" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Tests mit GNSS Compare &lt;/span&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;(erweiterte Version)&lt;br&gt;1. Durchgang&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;fontFamily=Calibri;fontSize=13;dashed=1;align=center;opacity=50;spacingLeft=0;sketch=0;spacingTop=30;verticalAlign=top;arcSize=9;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
           <mxGeometry x="270" y="30" width="330" height="650" as="geometry" />
@@ -226,34 +226,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-11" value="Weitere Überlegungen" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
-          <mxGeometry x="640" y="120" width="130" height="60" as="geometry" />
+          <mxGeometry x="666" y="120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-22" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="qroDr34DxEIiN0oYxJjS-1" source="baiyH2Pdp9W3ApuM1oN2-13" target="baiyH2Pdp9W3ApuM1oN2-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-13" value="Erstellen neuer Testszenarien" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
-          <mxGeometry x="640" y="210" width="130" height="60" as="geometry" />
+          <mxGeometry x="666" y="210" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-15" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="qroDr34DxEIiN0oYxJjS-1" source="baiyH2Pdp9W3ApuM1oN2-16" target="baiyH2Pdp9W3ApuM1oN2-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-16" value="Durchführung neuer Testszenarien an Teststandorten 3-5" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
-          <mxGeometry x="640" y="300" width="130" height="60" as="geometry" />
+          <mxGeometry x="666" y="300" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-17" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="qroDr34DxEIiN0oYxJjS-1" source="baiyH2Pdp9W3ApuM1oN2-18" target="baiyH2Pdp9W3ApuM1oN2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-18" value="Aufbereitung der Ergebnisse" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
-          <mxGeometry x="640" y="390" width="130" height="60" as="geometry" />
+          <mxGeometry x="666" y="390" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-19" value="Interpretation der Ergebnisse" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
-          <mxGeometry x="645" y="577" width="120" height="60" as="geometry" />
+          <mxGeometry x="671" y="577" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-20" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="qroDr34DxEIiN0oYxJjS-1" source="baiyH2Pdp9W3ApuM1oN2-21" target="baiyH2Pdp9W3ApuM1oN2-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="baiyH2Pdp9W3ApuM1oN2-21" value="Bestimmung der Positionsgenauigkeit mittels ArcGIS" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="qroDr34DxEIiN0oYxJjS-1">
-          <mxGeometry x="640" y="483.5" width="130" height="60" as="geometry" />
+          <mxGeometry x="666" y="483.5" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
