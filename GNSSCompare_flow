@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T19:04:06.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="X64Bod8zfYB1SWmM9_LJ" version="13.9.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-16T19:13:43.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="zCjjGqVVpdItj-KLYD-D" version="13.9.9" type="github" pages="5">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
     <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -334,6 +334,14 @@
         <mxCell id="y03H7RGDUlTK0YQ22NUT-30" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Erweiternde Systeme&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;align=center;opacity=50;" vertex="1" parent="y03H7RGDUlTK0YQ22NUT-1">
           <mxGeometry x="540" y="220" width="110" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7RKZnayy0W6qO5AYBvSN" name="Flow_Arbeit_v2">
+    <mxGraphModel dx="781" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="4X8dVy1nia_wDJ6c1cDe-0" />
+        <mxCell id="4X8dVy1nia_wDJ6c1cDe-1" parent="4X8dVy1nia_wDJ6c1cDe-0" />
       </root>
     </mxGraphModel>
   </diagram>
