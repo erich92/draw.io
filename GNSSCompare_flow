@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T08:21:25.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" version="13.9.9" etag="KHKIb3a71nrHZByx1bcn" type="github"><diagram id="1poxRbXDpuX0uWQKwgAF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T08:56:36.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="laRiNeTklMDZYuPsubLm" version="13.9.9" type="github">
+  <diagram id="1poxRbXDpuX0uWQKwgAF" name="Page-1">
+    <mxGraphModel dx="1308" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-1" value="GNSSCoreService.java" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#477EFF;fontSize=13;fontFamily=Calibri;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#477EFF;" edge="1" parent="1" source="F3hzv8sxpd7pqVU1paZk-2" target="F3hzv8sxpd7pqVU1paZk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#CC0000;" edge="1" parent="1" source="F3hzv8sxpd7pqVU1paZk-2" target="F3hzv8sxpd7pqVU1paZk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-2" value="MainActivity.java" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#477EFF;fontFamily=Calibri;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#477EFF;" edge="1" parent="1" source="F3hzv8sxpd7pqVU1paZk-4" target="F3hzv8sxpd7pqVU1paZk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#477EFF;" edge="1" parent="1" source="F3hzv8sxpd7pqVU1paZk-4" target="F3hzv8sxpd7pqVU1paZk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="F3hzv8sxpd7pqVU1paZk-4" target="F3hzv8sxpd7pqVU1paZk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-4" value="Programm Start" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#477EFF;fontFamily=Calibri;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-12" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#CC0000;" edge="1" parent="1" target="F3hzv8sxpd7pqVU1paZk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-20" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#CC0000;" edge="1" parent="1" source="F3hzv8sxpd7pqVU1paZk-1" target="F3hzv8sxpd7pqVU1paZk-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="640" as="sourcePoint" />
+            <mxPoint x="245" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-25" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;strokeColor=#477EFF;fontFamily=Calibri;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-34" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 13px&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;Constellations&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;Constellation.java&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;AllConstellations.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;GalileoConstellation.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;GalileoE1E5Constellation.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;GalileoE5aConstellation.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;GalileoGpsConstellation.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;GpsConstellation.java&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;GpsL1L5Constellation.java&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;GpsL5Constellation.java&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ....&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=13;fontFamily=Calibri;html=1;rounded=1;strokeColor=#477EFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="530" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-35" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 13px&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;Corrections&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;Correction.java&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;IonoCorrection.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;ShapiroCorrection.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;TropoCorrection.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=13;fontFamily=Calibri;html=1;rounded=1;strokeColor=#477EFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="660" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-36" value="" style="endArrow=classic;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="F3hzv8sxpd7pqVU1paZk-1" target="F3hzv8sxpd7pqVU1paZk-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="660" as="sourcePoint" />
+            <mxPoint x="450" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3hzv8sxpd7pqVU1paZk-37" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 13px&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;Corrections&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;Correction.java&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;IonoCorrection.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;ShapiroCorrection.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;TropoCorrection.java&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px ; font-size: 13px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=13;fontFamily=Calibri;html=1;rounded=1;strokeColor=#477EFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="660" width="180" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
