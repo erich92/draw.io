@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T13:28:58.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ti8rQSgKzAikb71ZLFIY" version="13.10.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-24T13:20:30.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1-SpPNq8GP-n_SOmqr37" version="13.10.1" type="github" pages="6">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
-    <mxGraphModel dx="781" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SHPqgK3I9UvU_lwUpJrV" name="Flow_Arbeit">
-    <mxGraphModel dx="781" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="y03H7RGDUlTK0YQ22NUT-0" />
         <mxCell id="y03H7RGDUlTK0YQ22NUT-1" parent="y03H7RGDUlTK0YQ22NUT-0" />
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7RKZnayy0W6qO5AYBvSN" name="Flow_Arbeit_v2">
-    <mxGraphModel dx="781" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="4X8dVy1nia_wDJ6c1cDe-0" />
         <mxCell id="4X8dVy1nia_wDJ6c1cDe-1" parent="4X8dVy1nia_wDJ6c1cDe-0" />
