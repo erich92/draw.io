@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T17:47:27.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hFL6R-EU8MO1MMceYbKv" version="13.10.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-11-29T17:51:44.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="n63AvRTNcL57_Z_V3y34" version="13.10.4" type="github" pages="16">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
     <mxGraphModel dx="954" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1893,8 +1893,8 @@
         <mxCell id="z3POJl3jj75HDWi75GOp-23" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#e1d5e7;fontFamily=Calibri;fontSize=13;" edge="1" parent="z3POJl3jj75HDWi75GOp-1" source="z3POJl3jj75HDWi75GOp-26" target="z3POJl3jj75HDWi75GOp-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="414" />
-              <mxPoint x="460" y="465" />
+              <mxPoint x="450" y="414" />
+              <mxPoint x="450" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1904,8 +1904,8 @@
         <mxCell id="z3POJl3jj75HDWi75GOp-28" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;fontFamily=Calibri;fontSize=13;" edge="1" parent="z3POJl3jj75HDWi75GOp-1" source="z3POJl3jj75HDWi75GOp-30" target="z3POJl3jj75HDWi75GOp-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="550" />
-              <mxPoint x="470" y="495" />
+              <mxPoint x="450" y="550" />
+              <mxPoint x="450" y="495" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2070,7 +2070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="T06_2" id="60COC66Dp7hekjXUo1XC">
-    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="zEzl0LhN9y45qIY3YSMS-0" />
         <mxCell id="zEzl0LhN9y45qIY3YSMS-1" parent="zEzl0LhN9y45qIY3YSMS-0" />
