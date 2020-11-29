@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T13:20:30.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1-SpPNq8GP-n_SOmqr37" version="13.10.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-29T09:59:13.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Y-N1xu5YS3I0Xe7akJpW" version="13.10.4" type="github" pages="7">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
-    <mxGraphModel dx="778" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EVNg_u4OKfN9xJV3rSUx" name="Flowchart Tests">
-    <mxGraphModel dx="915" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="qroDr34DxEIiN0oYxJjS-0" />
         <mxCell id="qroDr34DxEIiN0oYxJjS-1" parent="qroDr34DxEIiN0oYxJjS-0" />
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SHPqgK3I9UvU_lwUpJrV" name="Flow_Arbeit">
-    <mxGraphModel dx="778" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="y03H7RGDUlTK0YQ22NUT-0" />
         <mxCell id="y03H7RGDUlTK0YQ22NUT-1" parent="y03H7RGDUlTK0YQ22NUT-0" />
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7RKZnayy0W6qO5AYBvSN" name="Flow_Arbeit_v2">
-    <mxGraphModel dx="778" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="4X8dVy1nia_wDJ6c1cDe-0" />
         <mxCell id="4X8dVy1nia_wDJ6c1cDe-1" parent="4X8dVy1nia_wDJ6c1cDe-0" />
@@ -506,6 +506,140 @@
           <mxGeometry x="369" y="726" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aRI9h_YBPUVcCtceeFns-43" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Vorbereitung erfasster Daten und Weiterverarbeitung in ArcGIS Pro&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" parent="4X8dVy1nia_wDJ6c1cDe-1" vertex="1">
+          <mxGeometry x="499" y="726" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Flow_Arbeit_v2" id="KnHkLs31-bxDr2bPUeGv">
+    <mxGraphModel dx="777" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-0" />
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-1" parent="jV-iVScOnK2wpt0pCyDy-0" />
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-2" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;shape=flexArrow;" edge="1" parent="jV-iVScOnK2wpt0pCyDy-1" source="jV-iVScOnK2wpt0pCyDy-3" target="jV-iVScOnK2wpt0pCyDy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;1. Einleitung&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="40" y="15" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-4" value="Problemstellung und Hintergrund" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="60" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-5" value="Forschungsstand und Relevanz der Arbeit" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="210" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-6" value="Ziel und Forschungsfragen" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="360" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-7" value="Methodik" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="510" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-8" value="Zu erwartende Resultate" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="660" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-9" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="jV-iVScOnK2wpt0pCyDy-1" source="jV-iVScOnK2wpt0pCyDy-10" target="jV-iVScOnK2wpt0pCyDy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-10" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;2. Allgemeines zu globalen Navigationssatellitensystemen (GNSS)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="40" y="150" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-11" value="Funktionsweise" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="210" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-12" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Entstehungsgeschichte&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="360" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-13" value="Erweiternde Systeme" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="510" y="182" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-14" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="jV-iVScOnK2wpt0pCyDy-1" source="jV-iVScOnK2wpt0pCyDy-15" target="jV-iVScOnK2wpt0pCyDy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-15" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;3. Überlegungen und Anforderungen zur Beantwortung der Forschungsfrage&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="40" y="285" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-16" value="Anforderungen" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="134" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Genutzte Komponenten&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="284" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-18" value="Genutzte Software" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="434" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-19" value="Genutzte Hardware" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="584" y="317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-20" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="jV-iVScOnK2wpt0pCyDy-1" source="jV-iVScOnK2wpt0pCyDy-21" target="jV-iVScOnK2wpt0pCyDy-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-21" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;4. Probleme bei der Genauigkeit der Standortbestimmung&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="40" y="420" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-22" value="Möglichkeiten der Verbesserung der Standortgenauigkeit und Fehlerquellen" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="134" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-23" value="&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;GNSS-&lt;/span&gt;&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Fehlerquellen durch Umwelteinflüsse oder empfängerspezifische Fehler&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="284" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-24" value="&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Dual-Frequency&lt;br/&gt;– Die Nutzung mehrerer Frequenzbänder zur Positionsbestimmung&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="434" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-25" value="&lt;span lang=&quot;DE&quot; style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Genauigkeit&lt;br/&gt;der Positionsbestimmung mittels Smartphones und deren Ursachen&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="584" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-26" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="jV-iVScOnK2wpt0pCyDy-1" source="jV-iVScOnK2wpt0pCyDy-27" target="jV-iVScOnK2wpt0pCyDy-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-27" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;5. Methodik&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;arcSize=10;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="40" y="555" width="760" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-28" value="Allgemeines zur Appentwicklung mittels Android Studio" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="60" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-29" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Applikation, Fehlerbehebungsansätze und verwendete Filteralgorithmen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="60" y="655.5" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-30" value="Positionsbestimmung mittels GNSS mit frei verfügbaren Apps" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="60" y="726" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-31" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;fontFamily=Calibri;fontSize=13;" edge="1" parent="jV-iVScOnK2wpt0pCyDy-1" source="jV-iVScOnK2wpt0pCyDy-32" target="jV-iVScOnK2wpt0pCyDy-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-32" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;6. Analyseergebnisse und Verbesserungsvorschläge&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="40" y="836" width="760" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-33" value="Vorstellung und Interpretation der Ergebnisse" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="270" y="866" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-34" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Verbesserungsmöglichkeiten und -vorschläge&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="420" y="866" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-35" value="&lt;span lang=&quot;DE&quot; style=&quot;font-size: 15px ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;7. Zusammenfassung und Ausblick&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;fontFamily=Calibri;fontSize=13;fillColor=#dae8fc;opacity=50;align=center;dashed=1;spacingLeft=0;verticalAlign=top;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="40" y="972" width="760" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-36" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Entwicklungsumgebung und Programmiersprache&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="210" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-37" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Genutzte Applikationen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="210" y="655.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-38" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Korrekturmodelle&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="340" y="655.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-39" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Positionierungsmethoden&lt;br&gt;(PVT-Methoden)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="470" y="655.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-40" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Umsetzungsversuche und aufgetretene Probleme&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="600" y="655.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-41" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Grundsätzliche Überlegungen vor Erstellung der Testszenarien für die Applikation GPSTest&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="210" y="726" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-42" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Testszenarien für die Applikation GNSS Compare&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
+          <mxGeometry x="369" y="726" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jV-iVScOnK2wpt0pCyDy-43" value="&lt;font face=&quot;calibri, sans-serif&quot; style=&quot;font-size: 11px&quot;&gt;Vorbereitung erfasster Daten und Weiterverarbeitung in ArcGIS Pro&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;opacity=30;align=center;horizontal=1;" vertex="1" parent="jV-iVScOnK2wpt0pCyDy-1">
           <mxGeometry x="499" y="726" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
