@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T16:46:23.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="RJg-leljoYVBeNsFQ4hu" version="13.10.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-11-29T17:47:27.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hFL6R-EU8MO1MMceYbKv" version="13.10.4" type="github" pages="16">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
     <mxGraphModel dx="954" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -794,7 +794,7 @@
         <mxCell id="tVaCIFzwqFnbdns8enuh-1" value="Konstellation" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
           <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tVaCIFzwqFnbdns8enuh-2" value="Korrketur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
+        <mxCell id="tVaCIFzwqFnbdns8enuh-2" value="Korrektur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
           <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tVaCIFzwqFnbdns8enuh-3" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
@@ -923,7 +923,7 @@
         <mxCell id="a7kEhs3fPfmHzSzb-sRx-1" value="Konstellation" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
           <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a7kEhs3fPfmHzSzb-sRx-2" value="Korrketur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
+        <mxCell id="a7kEhs3fPfmHzSzb-sRx-2" value="Korrektur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
           <mxGeometry x="990" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a7kEhs3fPfmHzSzb-sRx-3" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="6PHX4OOeXkaqS1fjjXaJ-1">
@@ -1215,7 +1215,7 @@
         <mxCell id="c__uYhmYFF1m1MWgpQ7s-3" value="Konstellation" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="c__uYhmYFF1m1MWgpQ7s-1">
           <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c__uYhmYFF1m1MWgpQ7s-4" value="Korrketur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="c__uYhmYFF1m1MWgpQ7s-1">
+        <mxCell id="c__uYhmYFF1m1MWgpQ7s-4" value="Korrektur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="c__uYhmYFF1m1MWgpQ7s-1">
           <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c__uYhmYFF1m1MWgpQ7s-5" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="c__uYhmYFF1m1MWgpQ7s-1">
@@ -1305,8 +1305,8 @@
         <mxCell id="c__uYhmYFF1m1MWgpQ7s-28" style="edgeStyle=orthogonalEdgeStyle;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;fontFamily=Calibri;fontSize=13;" edge="1" parent="c__uYhmYFF1m1MWgpQ7s-1" source="c__uYhmYFF1m1MWgpQ7s-30" target="c__uYhmYFF1m1MWgpQ7s-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="550" />
-              <mxPoint x="470" y="495" />
+              <mxPoint x="460" y="550" />
+              <mxPoint x="460" y="495" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1317,7 +1317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T2twJUZXS0qrJ0vUR7vc" name="T04_1">
-    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="DogMuMJUcLTmEtVmFhti-0" />
         <mxCell id="DogMuMJUcLTmEtVmFhti-1" parent="DogMuMJUcLTmEtVmFhti-0" />
@@ -1526,7 +1526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="T04_2" id="ioPRmOdvCmXb3GEXZxpV">
-    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ywaFnLFuBjcExYK-UbCt-0" />
         <mxCell id="ywaFnLFuBjcExYK-UbCt-1" parent="ywaFnLFuBjcExYK-UbCt-0" />
@@ -1536,7 +1536,7 @@
         <mxCell id="ywaFnLFuBjcExYK-UbCt-3" value="Konstellation" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="ywaFnLFuBjcExYK-UbCt-1">
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ywaFnLFuBjcExYK-UbCt-4" value="Korrketur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="ywaFnLFuBjcExYK-UbCt-1">
+        <mxCell id="ywaFnLFuBjcExYK-UbCt-4" value="Korrektur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="ywaFnLFuBjcExYK-UbCt-1">
           <mxGeometry x="710" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ywaFnLFuBjcExYK-UbCt-5" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="ywaFnLFuBjcExYK-UbCt-1">
@@ -1814,7 +1814,7 @@
         <mxCell id="z3POJl3jj75HDWi75GOp-3" value="Konstellation" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="z3POJl3jj75HDWi75GOp-1">
           <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z3POJl3jj75HDWi75GOp-4" value="Korrketur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="z3POJl3jj75HDWi75GOp-1">
+        <mxCell id="z3POJl3jj75HDWi75GOp-4" value="Korrektur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="z3POJl3jj75HDWi75GOp-1">
           <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z3POJl3jj75HDWi75GOp-5" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="z3POJl3jj75HDWi75GOp-1">
@@ -2080,7 +2080,7 @@
         <mxCell id="zEzl0LhN9y45qIY3YSMS-3" value="Konstellation" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="zEzl0LhN9y45qIY3YSMS-1">
           <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zEzl0LhN9y45qIY3YSMS-4" value="Korrketur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="zEzl0LhN9y45qIY3YSMS-1">
+        <mxCell id="zEzl0LhN9y45qIY3YSMS-4" value="Korrektur" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="zEzl0LhN9y45qIY3YSMS-1">
           <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zEzl0LhN9y45qIY3YSMS-5" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#A9C4EB;fontFamily=Calibri;fontSize=13;" vertex="1" parent="zEzl0LhN9y45qIY3YSMS-1">
