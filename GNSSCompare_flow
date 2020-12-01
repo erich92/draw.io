@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:15:19.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nOp1xlCYWu1rxr9oHae3" version="13.10.4" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2020-12-01T09:16:46.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9sWTPACe1yxuXeRKxOH6" version="13.10.4" type="github" pages="19">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
     <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -573,7 +573,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F46sjBxHo6ul5LBMVZQ3" name="30m">
-    <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Lqi0hl6YQX9NcHIxq-AE-0" />
         <mxCell id="Lqi0hl6YQX9NcHIxq-AE-1" parent="Lqi0hl6YQX9NcHIxq-AE-0" />
@@ -603,9 +603,6 @@
         </mxCell>
         <mxCell id="Lqi0hl6YQX9NcHIxq-AE-15" value="" style="shape=ellipse;fillColor=#0065FF;strokeColor=none;html=1" parent="Lqi0hl6YQX9NcHIxq-AE-1" vertex="1">
           <mxGeometry x="250" y="240" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="Lqi0hl6YQX9NcHIxq-AE-16" value="" style="shape=ellipse;fillColor=#0065FF;strokeColor=none;html=1" parent="Lqi0hl6YQX9NcHIxq-AE-1" vertex="1">
-          <mxGeometry x="370" y="380" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Lqi0hl6YQX9NcHIxq-AE-17" value="" style="shape=ellipse;fillColor=#0065FF;strokeColor=none;html=1" parent="Lqi0hl6YQX9NcHIxq-AE-1" vertex="1">
           <mxGeometry x="390" y="460" width="10" height="10" as="geometry" />
