@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T10:12:52.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1XzChtn7bWGKhXA0yc2y" version="13.10.9" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2020-12-05T10:13:53.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tM92NuQLVjM3Ifqq0TeX" version="13.10.9" type="github" pages="22">
   <diagram id="1poxRbXDpuX0uWQKwgAF" name="Flowchart GNSS Compare">
     <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2564,6 +2564,17 @@
         <mxCell id="YIkMplu8bAG-z-nhB8Av-0" />
         <mxCell id="YIkMplu8bAG-z-nhB8Av-1" parent="YIkMplu8bAG-z-nhB8Av-0" />
         <mxCell id="6g1mRoE6EDBrVhoov82N-0" value="Galileo E5a" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#FFFFCC;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;strokeColor=#D1E000;fontColor=#D1E000;" vertex="1" parent="YIkMplu8bAG-z-nhB8Av-1">
+          <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5JY4clfFtU7UoRSoKlnt" name="GPS L5">
+    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="99Sz0xnMfAPyS1RT460o-0" />
+        <mxCell id="99Sz0xnMfAPyS1RT460o-1" parent="99Sz0xnMfAPyS1RT460o-0" />
+        <mxCell id="1MIUSGlzfAWxBEw-lu3x-0" value="GPS L5" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;fillColor=#FFCCFF;fontFamily=Calibri;fontSize=13;opacity=50;align=center;horizontal=1;strokeColor=#FF66FF;fontColor=#FF66FF;" vertex="1" parent="99Sz0xnMfAPyS1RT460o-1">
           <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
